@@ -32,5 +32,5 @@ hosts file
 
 URL example
 -----------------
-http://routingtest.com/news_news/insert
+http://routingtest.com/news_news/insert/param1/param2
 http://routingtest.com/news_news/display
